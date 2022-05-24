@@ -1,3 +1,2 @@
 # youtube-video-downloader
-## Module used 
-pytube
+Used module - pytube
